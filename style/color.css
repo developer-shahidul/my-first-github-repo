@@ -1,0 +1,29 @@
+.color-primary {
+  color: #28cb8b;
+}
+.color-tint-5{
+  color: #E8F5E9;
+}
+.color-balck {
+  color: #263238;
+}
+.color-d_grey {
+  color: #4d4d4d;
+}
+.color-grey{
+  color: #717171;
+}
+.color-white{
+color: #FFFFFF;
+}
+
+.bg-color-balck {
+  background-color: #263238;
+}
+
+.bg-color-primary {
+    background-color: #28cb8b;
+  }
+  .bg-color-tint-5{
+    background-color: #E8F5E9;
+  }
