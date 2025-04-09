@@ -1,8 +1,8 @@
 .color-primary {
   color: #28cb8b;
 }
-.color-tint-5{
-  color: #E8F5E9;
+.color-tint-5 {
+  color: #e8f5e9;
 }
 .color-balck {
   color: #263238;
@@ -10,20 +10,33 @@
 .color-d_grey {
   color: #4d4d4d;
 }
-.color-grey{
+.color-grey {
   color: #717171;
 }
-.color-white{
-color: #FFFFFF;
+.color-white {
+  color: #ffffff;
+}
+
+.box-shadow {
+  box-shadow: 0 1.39px 2.78px 0 #ABBED1;
 }
 
 .bg-color-balck {
   background-color: #263238;
 }
+.color-black{
+  color: #18191F;
+}
 
 .bg-color-primary {
-    background-color: #28cb8b;
-  }
-  .bg-color-tint-5{
-    background-color: #E8F5E9;
-  }
+  background-color: #28cb8b;
+}
+.bg-color-tint-5 {
+  background-color: #e8f5e9;
+}
+.paragraph-font-size {
+  font-size: 11.14px;
+}
+.header-font-size {
+  font-size: 25.06px;
+}
