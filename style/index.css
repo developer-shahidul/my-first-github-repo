@@ -3,7 +3,6 @@ body {
   margin: 0 auto;
 }
 
-
 /* navbar css start */
 .navbar-container {
   width: 100%;
@@ -69,7 +68,6 @@ body {
 
 /* navbar css end*/
 
-
 /* banner start*/
 .header-container {
   padding-bottom: 10px;
@@ -80,10 +78,10 @@ body {
 /* banner end*/
 .banner-container {
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: repeat(2, 1fr);
   gap: 72.39px;
   text-align: center;
-  max-width: 1200px;
+  width: 1200px;
   margin: 0 auto;
 }
 .banner-content {
@@ -313,8 +311,6 @@ body {
 }
 /* helping  banner end */
 /* customer section start */
-
-
 
 .customer-container {
   display: grid;
