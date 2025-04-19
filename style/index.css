@@ -70,10 +70,14 @@ body {
 
 /* banner start*/
 .header-container {
-  padding-bottom: 10px;
+  padding-top: 10px;
   height: 100vh;
-  display: flex;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto;
   align-items: center;
+  text-align: center;
+  margin: 0 auto;
 }
 /* banner end*/
 .banner-container {
